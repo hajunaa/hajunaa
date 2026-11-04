@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4A017&center=true&vCenter=true&width=600&lines=%D0%A1%D0%B0%D0%B9%D0%BD+%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0+%D1%83%D1%83+%F0%9F%91%8B+I'm+Mandakhbayar;Frontend+%26+Flutter+Developer;Building+Mandkhuur+%F0%9F%8E%BB;Mongolia+%F0%9F%87%B2%F0%9F%87%B3+%E2%86%92+South+Korea+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4A017&center=true&vCenter=true&width=600&lines=%D0%A1%D0%B0%D0%B9%D0%BD+%D0%B1%D0%B0%D0%B9%D0%BD%D0%B0+%D1%83%D1%83+%F0%9F%91%8B+I'm+Mandakhbayar;Frontend+%26+Flutter+Developer;Building+Mandkhuur+%F0%9F%8E%BB;Hejina+Online+Shop+%F0%9F%9B%8D%EF%B8%8F;Mongolia+%F0%9F%87%B2%F0%9F%87%B3+%E2%86%92+South+Korea+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -15,7 +15,9 @@
 
 I'm a software engineering student from Mongolia, living in South Korea. I like taking an idea from a Figma frame all the way to a working app, and I'm proud to bring Mongolian traditional music into the digital world.
 
-- 📱 Building **Mandkhuur**, a booking app for Mongolian traditional musicians in Korea
+- 🎻 Building **Mandkhuur**, a website and app for booking Mongolian traditional musicians in Korea
+- 🛍️ Built **Hejina**, an online fashion & beauty shop with QPay payments
+- 🎡 Made **Хуурын Хүрд**, a morin khuur cover challenge game
 - 🎨 Figma → Flutter is my favourite workflow
 - 🔌 I also enjoy hardware: Arduino, sensors and servo motors
 - 🌱 Currently learning: AI agents, Supabase, shipping an iOS app
@@ -23,54 +25,103 @@ I'm a software engineering student from Mongolia, living in South Korea. I like 
 
 ---
 
-### 🌟 Featured project: Mandkhuur 🎻
+### 🌟 Featured projects
 
-> Book Mongolian traditional performers (морин хуур, хөөмий, бүжиг) for weddings, parties and events in Korea.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://mandkhuur.com"><img src="assets/mandkhuur-preview.jpg" width="720" alt="Mandkhuur iOS app screens" /></a>
-</p>
+#### 🎻 Mandkhuur · Website
+**Book Mongolian traditional performers in Korea.**
+Live morin khuur, khöömii and dance for weddings, parties and events, with artist profiles, ensembles, lessons and an admin dashboard.
 
-- 🏠 Home with featured shows and a weekly availability calendar
-- 🔎 Browse and filter artists by instrument (morin khuur, khöömii, dance)
-- 👤 Artist profiles with price, rating and similar artists
-- 📅 Step-by-step booking with date and time picker
-- 🗂️ My bookings, upcoming and past, plus profile and settings (dark mode, language)
+🔗 [mandkhuur.com](https://mandkhuur.com)
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <a href="https://mandkhuur.com"><img src="https://img.shields.io/badge/Website-mandkhuur.com-D4A017?style=flat-square" /></a>
-</p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 
----
+- Booking flow with date and time picker
+- Supabase auth, admin dashboard, web push
+- Kakao Pay / Kakao Map integration
 
-### 🧪 More projects
+</td>
+<td width="50%" align="center">
+<a href="https://mandkhuur.com"><img src="assets/mandkhuur-web.jpg" width="260" alt="Mandkhuur website" /></a>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 📱 Mandkhuur · iOS & Android app
+The same booking experience as a native mobile app, designed in Figma and built with Flutter.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+
+<p align="center"><img src="assets/mandkhuur-preview.jpg" width="720" alt="Mandkhuur app screens" /></p>
+
+Home with a weekly calendar · browse artists by instrument · artist profiles with price and rating · step-by-step booking · my bookings · dark mode and language settings
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🛍️ Hejina · Online shop
+**Women's fashion and beauty store for Mongolia.** Bilingual (MN / EN), prices in ₮, payment by QPay or cash on delivery.
+
+<img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/QPay-D4A017?style=flat-square" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+
+<p align="center"><img src="assets/hejina-shop.jpg" width="720" alt="Hejina online shop" /></p>
+
+- Catalog, search, wishlist, cart, checkout and order tracking
+- Reviews, customer accounts and a full admin panel
+- Postgres with Row Level Security, Edge Functions for payments, prerendered pages for SEO
+- Automated tests for payments (idempotency, last-unit race) and access rules
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🎡 Хуурын Хүрд · Khuuriin Khurd
+**A spin-the-wheel morin khuur cover challenge.** Spin the wheel, hear the trending 30 seconds of the song it lands on, then play it on your morin khuur.
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Web_Audio-000000?style=flat-square" />
+
+<p align="center"><img src="assets/khuuriin-khurd.jpg" width="720" alt="Khuuriin Khurd" /></p>
+
+- Song wheels for Mongolian hits, K-pop, anime OST, plus wheels for Naruto, Demon Slayer, One Piece and more
+- In-browser recording studio (camera + mic, 9:16 / 1:1 / 16:9, trim and share)
+- Stage mode, guessing mode, daily challenge and 1080×1920 story cards
+- Built-in tuner (F / B♭) and metronome for khuur players
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 Smaller projects</b></summary>
 
 | | Project | What I built |
 |---|---|---|
-| 🎻 | **khuuriin-khurd** | Web project around the Mongolian khuur *(private, in progress)* |
-| 💌 | **[birthday_invite](https://github.com/hajunaa/birthday_invite)** | Animated envelope party invitation that opens into a letter, pure HTML/CSS/JS |
-| 🚗 | **[SWproject2_carparking](https://github.com/hajunaa/SWproject2_carparking)** | Smart parking gate: ultrasonic sensor detects a car, servo opens the bar with smooth sigmoid / sine easing |
-| 📈 | **[SWproject_curvefiting](https://github.com/hajunaa/SWproject_curvefiting)** | Calibrates an IR distance sensor on Arduino with polynomial least-squares curve fitting |
-| 📡 | **[SWporject17_14](https://github.com/hajunaa/SWporject17_14)** | IR sensor + servo control with an EMA filter for stable readings |
+| 💌 | **[birthday_invite](https://github.com/hajunaa/birthday_invite)** | Animated envelope party invitation that opens into a letter (HTML/CSS/JS) |
+| 🚗 | **[SWproject2_carparking](https://github.com/hajunaa/SWproject2_carparking)** | Smart parking gate: ultrasonic sensor + servo with sigmoid / sine easing (Arduino) |
+| 📈 | **[SWproject_curvefiting](https://github.com/hajunaa/SWproject_curvefiting)** | IR distance sensor calibration with polynomial curve fitting (Arduino) |
+| 📡 | **[SWporject17_14](https://github.com/hajunaa/SWporject17_14)** | IR sensor + servo control with an EMA filter (Arduino) |
 
-<p align="center">
-  <a href="https://github.com/hajunaa/birthday_invite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hajunaa&repo=birthday_invite&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/hajunaa/SWproject2_carparking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hajunaa&repo=SWproject2_carparking&theme=tokyonight&hide_border=true" /></a>
-</p>
+</details>
 
 ---
 
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,cpp,java,arduino&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,tailwind,cpp,java,arduino&perline=8" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,supabase,vercel,git,github,vscode,apple&perline=8" />
+  <img src="https://skillicons.dev/icons?i=figma,supabase,postgres,vite,threejs,vercel,git,github,vscode,apple&perline=8" />
 </p>
 
 ---
