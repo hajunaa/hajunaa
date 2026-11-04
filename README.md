@@ -102,14 +102,14 @@ Home with a weekly calendar · browse artists by instrument · artist profiles w
 </table>
 
 <details>
-<summary><b>🧪 Smaller projects</b></summary>
+<summary><b>🧪 Smaller projects</b> · all school work lives in <a href="https://github.com/hajunaa/school-project">school-project</a></summary>
 
 | | Project | What I built |
 |---|---|---|
 | 💌 | **[birthday_invite](https://github.com/hajunaa/birthday_invite)** | Animated envelope party invitation that opens into a letter (HTML/CSS/JS) |
-| 🚗 | **[SWproject2_carparking](https://github.com/hajunaa/SWproject2_carparking)** | Smart parking gate: ultrasonic sensor + servo with sigmoid / sine easing (Arduino) |
-| 📈 | **[SWproject_curvefiting](https://github.com/hajunaa/SWproject_curvefiting)** | IR distance sensor calibration with polynomial curve fitting (Arduino) |
-| 📡 | **[SWporject17_14](https://github.com/hajunaa/SWporject17_14)** | IR sensor + servo control with an EMA filter (Arduino) |
+| 🚗 | **[SWproject2_carparking](https://github.com/hajunaa/school-project/tree/main/SWproject2_carparking)** | Smart parking gate: ultrasonic sensor + servo with sigmoid / sine easing (Arduino) |
+| 📈 | **[SWproject_curvefiting](https://github.com/hajunaa/school-project/tree/main/SWproject_curvefiting)** | IR distance sensor calibration with polynomial curve fitting (Arduino) |
+| 📡 | **[SWporject17_14](https://github.com/hajunaa/school-project/tree/main/SWporject17_14)** | IR sensor + servo control with an EMA filter (Arduino) |
 
 </details>
 
